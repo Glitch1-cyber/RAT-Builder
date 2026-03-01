@@ -35,18 +35,3 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# Installation(Kali linux)
-
-### Open terminal and enter:
-     sudo apt update && sudo apt upgrade -y
-     git clone https://github.com/Glitch1-cyber/RAT-Builder.git
-     cd RAT-Builder
-     python -m venv venv
-     source venv/bin/activate
-     pip install -r requirements.txt
-     nano client.py 
-### and now enter your ip address in this line: 
-     server_ip = '' # Add your ip adress here Not public ip. between the ''
-#### after entering your IP and saving the file, Enter:
-     python3 main.py
-
