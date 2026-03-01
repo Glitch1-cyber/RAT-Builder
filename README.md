@@ -1,5 +1,7 @@
 # RAT-Builder
 
+## Follow me on Tiktok: glitch-cyber i think
+
 ### ⚠️This tool is for educational purposes only, the Developer is not responseable for any misuse anyone did with this tool
 
 
