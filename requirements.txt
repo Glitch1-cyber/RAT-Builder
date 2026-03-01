@@ -1,4 +1,1 @@
-pyinstaller
-socket
-os
-subprocess
+pyinstaller==5.1.0
